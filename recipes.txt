@@ -5,4 +5,5 @@ Changes in branchv1
 
 
 Changes in master branch
+Allow another changes
 
