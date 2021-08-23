@@ -17,3 +17,4 @@ while(i < 4):
     while(j > i):
         print(j * " ")
         i = i + 1
+
