@@ -1,1 +1,3 @@
 Welcome to M3 kitchen
+
+Changes in master branch
